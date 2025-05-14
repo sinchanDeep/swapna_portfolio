@@ -12,7 +12,7 @@ import cssLogo from "./cssLogo.svg";
 import bootstrapLogo from "./bootstrapLogo.svg";
 import mysqlLogo from "./mysqlLogo.svg";
 import projectOne from "./project1.png";
-import projectTwo from "./project1.png";
+import projectTwo from "./project2.png";
 import projectThree from "./project3.png";
 import { useNavigate } from "react-router-dom";
 import "./Home.css";
