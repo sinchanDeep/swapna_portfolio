@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
-import diagram1 from "images/diagram1.PNG";
-import diagram2 from "images/diagram2.PNG";
-import diagram3 from "images/diagram3.PNG";
+import diagram1 from "./diagram1.png";
+import diagram2 from "./diagram2.PNG";
+import diagram3 from "./diagram3.PNG";
 
 const ImageDisplayer = () => {
   const location = useLocation();

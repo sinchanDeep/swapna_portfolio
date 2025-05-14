@@ -4,17 +4,17 @@ import resume from "../Resume/resume.pdf";
 import { gsap  } from "gsap";
 import { useEffect, useLayoutEffect, useReducer,useRef } from "react";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import javaLogo from "images/javaLogo.svg";
-import pythonLogo from "images/pythonLogo.svg";
-import htmlLogo from "images/htmlLogo.svg";
-import javascriptLogo from "images/javascriptLogo.svg";
-import cssLogo from "images/cssLogo.svg";
-import bootstrapLogo from "images/bootstrapLogo.svg";
-import mysqlLogo from "images/mysqlLogo.svg";
-import projectOne from "images/project1.png";
-import projectTwo from "images/project1.png";
-import projectThree from "images/project3.png";
-import { useNavigate } from "images/react-router-dom";
+import javaLogo from "./javaLogo.svg";
+import pythonLogo from "./pythonLogo.svg";
+import htmlLogo from "./htmlLogo.svg";
+import javascriptLogo from "./javascriptLogo.svg";
+import cssLogo from "./cssLogo.svg";
+import bootstrapLogo from "./bootstrapLogo.svg";
+import mysqlLogo from "./mysqlLogo.svg";
+import projectOne from "./project1.png";
+import projectTwo from "./project1.png";
+import projectThree from "./project3.png";
+import { useNavigate } from "react-router-dom";
 import "./Home.css";
 
 const Home = () => {
