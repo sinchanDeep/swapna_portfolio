@@ -11,9 +11,9 @@ import javascriptLogo from "./javascriptLogo.svg";
 import cssLogo from "./cssLogo.svg";
 import bootstrapLogo from "./bootstrapLogo.svg";
 import mysqlLogo from "./mysqlLogo.svg";
-import projectOne from "./project1.png";
-import projectTwo from "./project2.png";
-import projectThree from "./project3.png";
+import projectOne from "./project1.PNG";
+import projectTwo from "./project2.PNG";
+import projectThree from "./project3.PNG";
 import { useNavigate } from "react-router-dom";
 import "./Home.css";
 
